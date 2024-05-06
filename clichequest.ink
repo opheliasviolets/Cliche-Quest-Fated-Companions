@@ -43,7 +43,7 @@ Five young people stand before you. It is up to you to shape their destinies.
 
 
 === owenClassSelect ===
-Owen stands before you. The second son of the king of Placeland's younger brother, he has been desperate to prove himself for his entire life. He may not be the most clever, but he's quite hardworking and almost annoyingly enthusiastic.
+Owen stands before you. The second son of the king of Illunis's younger brother, he has been desperate to prove himself for his entire life. He may not be the most clever, but he's quite hardworking and almost annoyingly enthusiastic.
 Select a class for Owen.
 + [Cleric]
 ~ owenClass = "Cleric"
@@ -85,7 +85,7 @@ Select a class for Vivien.
 
 
 ===morganClassSelect===
-Morgan stands before you. Her older brother will be the next king of DarkPlaceLand, the kingdom neighboring Placeland. She lives in PlaceLand to further her education, but also to ensure goodwill between her family and Owen's. Her kingdom's beliefs are fairly similar to Placeland's, yet they are seen as pagan superstition at best and demon worship at worst. 
+Morgan stands before you. Her older brother will be the next king of Komorebi, the kingdom neighboring Illunis. She lives in Illunis to further her education, but also to ensure goodwill between her family and Owen's. Her kingdom's beliefs are fairly similar to Illunis's, yet they are seen as pagan superstition at best and demon worship at worst. 
 Select a class for Morgan.
 + [Cleric]
 ~ morganClass = "Cleric"
@@ -106,7 +106,7 @@ Select a class for Morgan.
 
 
 ===kitClassSelect===
-Kit stands before you. He came to the capital of Placeland to find a noble to patronize his writing and musical endeavors. He's very charming (or at least he thinks he is), so he'll likely be successful. Not much is known about his past.
+Kit stands before you. He came to the capital of Illunis to find a noble to patronize his writing and musical endeavors. He's very charming (or at least he thinks he is), so he'll likely be successful. Not much is known about his past.
 Select a class for Kit.
 + [Cleric]
 ~ kitClass = "Cleric"
@@ -562,9 +562,9 @@ Morgan: You truly don't know?
 ++++++++++++[Advance]
 Kit: I'm afraid I don't, my lady. 
 +++++++++++++[Advance]
-Morgan: It was Owen's uncle the king who invited me to live in Placeland. I'm not naive enough to think it was out of the kindness of his heart. 
+Morgan: It was Owen's uncle the king who invited me to live in Illunis. I'm not naive enough to think it was out of the kindness of his heart. 
 ++++++++++++++[Advance]
-Morgan: Essentially, I'm only here to keep my mother the queen in line. Our country and Placeland have never gotten along too well. I'm here to ensure we do. 
+Morgan: Essentially, I'm only here to keep my mother the queen in line. Our country and Illunis have never gotten along too well. I'm here to ensure we do. 
 +++++++++++++++[Advance]
 Kit: I see.
 ++++++++++++++++[Advance]
